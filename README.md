@@ -1,4 +1,5 @@
-University_WEB_SK Website: https://sk-epic-24.github.io/HU_WEB_SK/
+#University_WEB_SK Website: https://sk-epic-24.github.io/HU_WEB_SK/
+
 🧙‍♂ Hogwarts University - School of Magic 🌟 Welcome to Hogwarts University, a fully responsive and beautifully designed educational website template created using HTML, CSS, Bootstrap, and various web design practices. This project pays homage to the magical world of Harry Potter and brings a fictional university to life with modern UI elements and enchanting design.
 
 🌐 Project Overview This website template simulates an educational platform for a fictional university – Hogwarts University, offering magical courses, an immersive interface, and a fully responsive design optimized for both desktop and mobile devices.
