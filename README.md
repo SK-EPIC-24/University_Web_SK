@@ -1,8 +1,10 @@
 University_WEB_SK Website: https://sk-epic-24.github.io/University_Web_SK/
 
-🧙‍♂ Hogwarts University - School of Magic 🌟 Welcome to Hogwarts University, a fully responsive and beautifully designed educational website template created using HTML, CSS, Bootstrap, and various web design practices. This project pays homage to the magical world of Harry Potter and brings a fictional university to life with modern UI elements and enchanting design.
+🧙‍♂ Hogwarts University - School of Magic
+🌟 Welcome to Hogwarts University, a fully responsive and beautifully designed educational website template created using HTML, CSS, Bootstrap, and various web design practices. This project pays homage to the magical world of Harry Potter and brings a fictional university to life with modern UI elements and enchanting design.
 
-🌐 Project Overview This website template simulates an educational platform for a fictional university – Hogwarts University, offering magical courses, an immersive interface, and a fully responsive design optimized for both desktop and mobile devices.
+🌐 Project Overview 
+This website template simulates an educational platform for a fictional university – Hogwarts University, offering magical courses, an immersive interface, and a fully responsive design optimized for both desktop and mobile devices.
 
 🧩 Technologies Used HTML5 – For content structuring
 
@@ -84,7 +86,8 @@ Forbidden Forest
 
 🔹 Footer A simple, elegant footer with copyright.
 
-🎨 Styling Highlights Dark Mode Theme: Elegant dark background with golden accent colors.
+🎨 Styling Highlights Dark Mode Theme:
+Elegant dark background with golden accent colors.
 
 Custom Fonts & Colors: Uses the magical color palette inspired by the Harry Potter universe.
 
@@ -104,6 +107,8 @@ Update course content or text.
 
 Modify styles in style.css.
 
-🙌 Acknowledgements Inspired by the magical world of J.K. Rowling. This project is educational and non-commercial, created purely for learning front-end development and showcasing design skills.
+🙌 Acknowledgements Inspired by the magical world of J.K. Rowling.
+This project is educational and non-commercial, created purely for learning front-end development and showcasing design skills.
 
-Author: Shyamsunder Kadam
+Author:
+Shyamsunder Kadam
